@@ -1,7 +1,7 @@
 # Meu Portfólio Pessoal
 
 Bem-vindo ao meu **portfólio pessoal**, hospedado no GitHub Pages!
-Este projeto é uma página web simples e responsiva desenvolvida com **HTML** e **CSS**, que apresenta minhas habilidades e projetos.
+Este projeto é uma página web simples e responsiva desenvolvida com **HTML** e **CSS**, que apresenta minhas habilidades.
 
 ## Acesse a página:
 
@@ -27,3 +27,4 @@ O objetivo deste projeto é criar uma página pessoal que:
 * Seções de apresentação, projetos e contato
 * Design responsivo para mobile e desktop
 * Links para minhas redes profissionais e GitHub
+
